@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a19dd82c2799c4f9f52592e45b4bdc, type: 3}
+  m_Name: TangramDataButterfly
+  m_EditorClassIdentifier: 
+  infoPositionsLT:
+  - position: {x: 1.346, y: 0.686}
+    rotZ: 130
+    flip: 0
+  - position: {x: -0.776, y: -0.824}
+    rotZ: 31
+    flip: 0
+  infoPositionsST:
+  - position: {x: 0.389, y: 0.313}
+    rotZ: 130
+    flip: 0
+  - position: {x: 1.223, y: -0.701}
+    rotZ: 220
+    flip: 0
+  - position: {x: -0.106, y: -0.037}
+    rotZ: 31
+    flip: 0
+  - position: {x: 0.561, y: -1.165}
+    rotZ: 301
+    flip: 0
+  infoPositionsMD:
+  - position: {x: 0.393, y: -0.879}
+    rotZ: -59
+    flip: 0
+  - position: {x: 0.059, y: -0.323}
+    rotZ: -59
+    flip: 0
+  - position: {x: 0.591, y: 0.052}
+    rotZ: 130
+    flip: 0
+  - position: {x: 1.01, y: -0.447}
+    rotZ: 130
+    flip: 0
+  infoPositionsSq:
+  - position: {x: 0.805, y: -0.193}
+    rotZ: -50
+    flip: 0
+  - position: {x: 0.231, y: -0.599}
+    rotZ: 31
+    flip: 0
+  infoPositionsPl:
+  - position: {x: 0.064, y: -0.324}
+    rotZ: -59
+    flip: 0
+  - position: {x: 0.394, y: -0.873}
+    rotZ: -59
+    flip: 1
+  - position: {x: 1.016, y: -0.45}
+    rotZ: -50
+    flip: 0
+  - position: {x: 0.59, y: 0.058}
+    rotZ: -50
+    flip: 1
+  solutions:
+  - solutionIndexes: 00000000010000000000000001000000000000000000000000000000
+  - solutionIndexes: 00000000010000000100000000000000000000000000000000000000
+  - solutionIndexes: 01000000000000000000000001000000000000000000000000000000
+  - solutionIndexes: 01000000000000000100000000000000000000000000000000000000
+  - solutionIndexes: 00000000010000000000000001000000010000000000000001000000
+  - solutionIndexes: 00000000010000000100000000000000010000000000000001000000
+  - solutionIndexes: 01000000000000000000000001000000010000000000000001000000
+  - solutionIndexes: 01000000000000000100000000000000010000000000000001000000
+  - solutionIndexes: 00000000010000000200000003000000020000000100000002000000
+  - solutionIndexes: 00000000010000000300000002000000020000000100000002000000
+  - solutionIndexes: 01000000000000000200000003000000020000000100000002000000
+  - solutionIndexes: 01000000000000000300000002000000020000000100000002000000
+  - solutionIndexes: 00000000010000000200000003000000030000000100000003000000
+  - solutionIndexes: 00000000010000000300000002000000030000000100000003000000
+  - solutionIndexes: 01000000000000000200000003000000030000000100000003000000
+  - solutionIndexes: 01000000000000000300000002000000030000000100000003000000

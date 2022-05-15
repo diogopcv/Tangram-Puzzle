@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a19dd82c2799c4f9f52592e45b4bdc, type: 3}
+  m_Name: TangramDataDefault
+  m_EditorClassIdentifier: 
+  infoPositionsLT:
+  - position: {x: -0.6270208, y: -0.65}
+    rotZ: 0
+    flip: 0
+  - position: {x: 0.6829796, y: -0.67}
+    rotZ: 90
+    flip: 0
+  infoPositionsST:
+  - position: {x: -0.3269997, y: 0.3200001}
+    rotZ: 90
+    flip: 0
+  - position: {x: 0.9829793, y: 0.33}
+    rotZ: 0
+    flip: 0
+  infoPositionsMD:
+  - position: {x: 0.002979279, y: 0.98}
+    rotZ: 0
+    flip: 0
+  infoPositionsSq:
+  - position: {x: 0.3339796, y: 0.3200001}
+    rotZ: 0
+    flip: 0
+  infoPositionsPl:
+  - position: {x: -0.6770208, y: 0.33}
+    rotZ: 0
+    flip: 0
+  solutions:
+  - solutionIndexes: 00000000010000000000000001000000000000000000000000000000

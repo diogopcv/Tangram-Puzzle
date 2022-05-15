@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a91b3feb876039245bd50cbf1f8f9733
+  m_SerializeEntries:
+  - m_GUID: 002dd97d6c2f79a499ac121603865f77
+    m_Address: Assets/Textures/tangram-camel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 850eedbf79ed13b408de297b9aa49f7a
+    m_Address: Assets/Textures/tangram-butterfly.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecfb0564ffc9fac40b9380b4df200afc
+    m_Address: Assets/Data/TangramDataDefault.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ffbc161b82d49544b3f62f2aa00aebe
+    m_Address: Assets/Data/TangramDataCamel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7af37fb8c5bde2644b4003b6c5837d65
+    m_Address: Assets/Data/TangramDataButterfly.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4e9821763644b154daac9331070711f9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cbc24324b7186fb4b92bf3b1521407a9, type: 2}
+    - {fileID: 11400000, guid: a30ebc42a58f414438ee7535915df4ec, type: 2}
